@@ -8,8 +8,9 @@ using System.Threading.Tasks;
 
 namespace BTH06_SQLConnect
 {
-    internal class XoaDL
+    internal class ThemDL
     {
+        public static int Value { get; private set; }
         static void Main111(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
@@ -19,18 +20,18 @@ namespace BTH06_SQLConnect
             try
             {
                 // Câu lệnh insert
-                string sql = "delete from sinhvien where mssv = @mssv";
-                // tạo đối tượng command
-                MySqlCommand cmd = new MySqlCommand();
-                cmd.Connection = conn;
+                string sql = "insert into sinhvien (mssv, hoten, ngaysinh, tuoi, diemtb)" +
+                    "values (@mssv, 'Nguyen Quang Hai', '19/19/1999', 22, 9.1)";
+                MySqlCommand cmd = conn.CreateCommand();
                 cmd.CommandText = sql;
+
                 // Tạo đối tượng parameter
                 MySqlParameter mssv = new MySqlParameter("@mssv", SqlDbType.NVarChar);
                 mssv.Value = "22130180";
                 cmd.Parameters.Add(mssv);
                 // Thực thi command (dùng cho delete, insert, update)
                 int rowCount = cmd.ExecuteNonQuery();
-                Console.WriteLine("Row affected: " + rowCount);
+                Console.WriteLine("Row affected: " +rowCount);
             }
             catch (Exception ex)
             {

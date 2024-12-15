@@ -99,6 +99,8 @@
     <Compile Include="DBUtils.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SuaDL.cs" />
+    <Compile Include="ThemDL.cs" />
     <Compile Include="TruyVanDL.cs" />
     <Compile Include="XoaDL.cs" />
   </ItemGroup>

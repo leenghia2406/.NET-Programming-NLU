@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace BTH06_SQLConnect
 {
-    internal class XoaDL
+    internal class SuaDL
     {
         static void Main111(string[] args)
         {
@@ -19,14 +19,13 @@ namespace BTH06_SQLConnect
             try
             {
                 // Câu lệnh insert
-                string sql = "delete from sinhvien where mssv = @mssv";
-                // tạo đối tượng command
+                string sql = "update sinhvien set diemtb = 9.5 where mssv = @mssv";
                 MySqlCommand cmd = new MySqlCommand();
                 cmd.Connection = conn;
                 cmd.CommandText = sql;
-                // Tạo đối tượng parameter
+                // Thêm và set giá trị cho tham số
                 MySqlParameter mssv = new MySqlParameter("@mssv", SqlDbType.NVarChar);
-                mssv.Value = "22130180";
+                mssv.Value = "22130189";
                 cmd.Parameters.Add(mssv);
                 // Thực thi command (dùng cho delete, insert, update)
                 int rowCount = cmd.ExecuteNonQuery();
