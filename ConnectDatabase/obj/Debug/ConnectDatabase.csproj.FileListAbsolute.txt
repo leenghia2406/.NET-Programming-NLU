@@ -1,0 +1,14 @@
+D:\.NET 2024\ConnectDatabase\bin\Debug\ConnectDatabase.exe.config
+D:\.NET 2024\ConnectDatabase\bin\Debug\ConnectDatabase.exe
+D:\.NET 2024\ConnectDatabase\bin\Debug\ConnectDatabase.pdb
+D:\.NET 2024\ConnectDatabase\bin\Debug\MySql.Data.dll
+D:\.NET 2024\ConnectDatabase\bin\Debug\System.Memory.dll
+D:\.NET 2024\ConnectDatabase\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\.NET 2024\ConnectDatabase\bin\Debug\System.Numerics.Vectors.dll
+D:\.NET 2024\ConnectDatabase\bin\Debug\System.Buffers.dll
+D:\.NET 2024\ConnectDatabase\bin\Debug\MySql.Data.xml
+D:\.NET 2024\ConnectDatabase\obj\Debug\ConnectDatabase.csproj.AssemblyReference.cache
+D:\.NET 2024\ConnectDatabase\obj\Debug\ConnectDatabase.csproj.CoreCompileInputs.cache
+D:\.NET 2024\ConnectDatabase\obj\Debug\ConnectD.30F31AF9.Up2Date
+D:\.NET 2024\ConnectDatabase\obj\Debug\ConnectDatabase.exe
+D:\.NET 2024\ConnectDatabase\obj\Debug\ConnectDatabase.pdb

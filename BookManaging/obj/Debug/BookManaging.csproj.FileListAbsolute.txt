@@ -1,0 +1,7 @@
+D:\.NET 2024\BookManaging\bin\Debug\BookManaging.exe.config
+D:\.NET 2024\BookManaging\bin\Debug\BookManaging.exe
+D:\.NET 2024\BookManaging\bin\Debug\BookManaging.pdb
+D:\.NET 2024\BookManaging\obj\Debug\BookManaging.csproj.AssemblyReference.cache
+D:\.NET 2024\BookManaging\obj\Debug\BookManaging.csproj.CoreCompileInputs.cache
+D:\.NET 2024\BookManaging\obj\Debug\BookManaging.exe
+D:\.NET 2024\BookManaging\obj\Debug\BookManaging.pdb

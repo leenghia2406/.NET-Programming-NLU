@@ -1,0 +1,10 @@
+D:\.NET 2024\BTH07_WinformApp\bin\Debug\BTH07_WinformApp.exe.config
+D:\.NET 2024\BTH07_WinformApp\bin\Debug\BTH07_WinformApp.exe
+D:\.NET 2024\BTH07_WinformApp\bin\Debug\BTH07_WinformApp.pdb
+D:\.NET 2024\BTH07_WinformApp\obj\Debug\BTH07_PhuongTrinhBacHai.csproj.AssemblyReference.cache
+D:\.NET 2024\BTH07_WinformApp\obj\Debug\BTH07_WinformApp.PTBac2.resources
+D:\.NET 2024\BTH07_WinformApp\obj\Debug\BTH07_WinformApp.Properties.Resources.resources
+D:\.NET 2024\BTH07_WinformApp\obj\Debug\BTH07_PhuongTrinhBacHai.csproj.GenerateResource.cache
+D:\.NET 2024\BTH07_WinformApp\obj\Debug\BTH07_PhuongTrinhBacHai.csproj.CoreCompileInputs.cache
+D:\.NET 2024\BTH07_WinformApp\obj\Debug\BTH07_WinformApp.exe
+D:\.NET 2024\BTH07_WinformApp\obj\Debug\BTH07_WinformApp.pdb

@@ -1,0 +1,7 @@
+D:\.NET 2024\AccountMangerment\bin\Debug\AccountMangerment.exe.config
+D:\.NET 2024\AccountMangerment\bin\Debug\AccountMangerment.exe
+D:\.NET 2024\AccountMangerment\bin\Debug\AccountMangerment.pdb
+D:\.NET 2024\AccountMangerment\obj\Debug\BTH04_AccountMangerment.csproj.AssemblyReference.cache
+D:\.NET 2024\AccountMangerment\obj\Debug\BTH04_AccountMangerment.csproj.CoreCompileInputs.cache
+D:\.NET 2024\AccountMangerment\obj\Debug\AccountMangerment.exe
+D:\.NET 2024\AccountMangerment\obj\Debug\AccountMangerment.pdb

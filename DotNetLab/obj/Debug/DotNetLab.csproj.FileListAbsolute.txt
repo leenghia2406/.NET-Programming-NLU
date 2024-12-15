@@ -1,0 +1,7 @@
+D:\.NET 2024\DotNetLab\bin\Debug\DotNetLab.exe.config
+D:\.NET 2024\DotNetLab\bin\Debug\DotNetLab.exe
+D:\.NET 2024\DotNetLab\bin\Debug\DotNetLab.pdb
+D:\.NET 2024\DotNetLab\obj\Debug\DotNetLab.csproj.AssemblyReference.cache
+D:\.NET 2024\DotNetLab\obj\Debug\DotNetLab.csproj.CoreCompileInputs.cache
+D:\.NET 2024\DotNetLab\obj\Debug\DotNetLab.exe
+D:\.NET 2024\DotNetLab\obj\Debug\DotNetLab.pdb

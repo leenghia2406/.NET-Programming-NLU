@@ -1,0 +1,10 @@
+D:\.NET 2024\BTH07_HoTen\bin\Debug\BTH07_HoTen.exe.config
+D:\.NET 2024\BTH07_HoTen\bin\Debug\BTH07_HoTen.exe
+D:\.NET 2024\BTH07_HoTen\bin\Debug\BTH07_HoTen.pdb
+D:\.NET 2024\BTH07_HoTen\obj\Debug\BTH07_HoTen.csproj.AssemblyReference.cache
+D:\.NET 2024\BTH07_HoTen\obj\Debug\BTH07_HoTen.BaiTapHoTen.resources
+D:\.NET 2024\BTH07_HoTen\obj\Debug\BTH07_HoTen.Properties.Resources.resources
+D:\.NET 2024\BTH07_HoTen\obj\Debug\BTH07_HoTen.csproj.GenerateResource.cache
+D:\.NET 2024\BTH07_HoTen\obj\Debug\BTH07_HoTen.csproj.CoreCompileInputs.cache
+D:\.NET 2024\BTH07_HoTen\obj\Debug\BTH07_HoTen.exe
+D:\.NET 2024\BTH07_HoTen\obj\Debug\BTH07_HoTen.pdb

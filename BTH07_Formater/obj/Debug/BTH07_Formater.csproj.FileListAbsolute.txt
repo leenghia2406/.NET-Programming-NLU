@@ -1,0 +1,10 @@
+D:\.NET 2024\BTH07_Formater\bin\Debug\BTH07_Formater.exe.config
+D:\.NET 2024\BTH07_Formater\bin\Debug\BTH07_Formater.exe
+D:\.NET 2024\BTH07_Formater\bin\Debug\BTH07_Formater.pdb
+D:\.NET 2024\BTH07_Formater\obj\Debug\BTH07_Formater.csproj.AssemblyReference.cache
+D:\.NET 2024\BTH07_Formater\obj\Debug\BTH07_Formater.Properties.Resources.resources
+D:\.NET 2024\BTH07_Formater\obj\Debug\BTH07_Formater.csproj.GenerateResource.cache
+D:\.NET 2024\BTH07_Formater\obj\Debug\BTH07_Formater.csproj.CoreCompileInputs.cache
+D:\.NET 2024\BTH07_Formater\obj\Debug\BTH07_Formater.exe
+D:\.NET 2024\BTH07_Formater\obj\Debug\BTH07_Formater.pdb
+D:\.NET 2024\BTH07_Formater\obj\Debug\BTH07_Formater.Formater.resources

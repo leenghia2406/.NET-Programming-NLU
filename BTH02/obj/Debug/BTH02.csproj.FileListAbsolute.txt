@@ -1,0 +1,7 @@
+D:\.NET 2024\BTH02\bin\Debug\BTH02.exe.config
+D:\.NET 2024\BTH02\bin\Debug\BTH02.exe
+D:\.NET 2024\BTH02\bin\Debug\BTH02.pdb
+D:\.NET 2024\BTH02\obj\Debug\BTH02.csproj.AssemblyReference.cache
+D:\.NET 2024\BTH02\obj\Debug\BTH02.csproj.CoreCompileInputs.cache
+D:\.NET 2024\BTH02\obj\Debug\BTH02.exe
+D:\.NET 2024\BTH02\obj\Debug\BTH02.pdb

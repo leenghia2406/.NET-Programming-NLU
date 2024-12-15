@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET 2024\\ConnectDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A62B5E37-85DA-4FE4-8B62-BF3877B3C1CF}|ConnectDatabase.csproj|d:\\.net 2024\\connectdatabase\\truyvandl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62B5E37-85DA-4FE4-8B62-BF3877B3C1CF}|ConnectDatabase.csproj|solutionrelative:truyvandl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62B5E37-85DA-4FE4-8B62-BF3877B3C1CF}|ConnectDatabase.csproj|d:\\.net 2024\\connectdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62B5E37-85DA-4FE4-8B62-BF3877B3C1CF}|ConnectDatabase.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62B5E37-85DA-4FE4-8B62-BF3877B3C1CF}|ConnectDatabase.csproj|d:\\.net 2024\\connectdatabase\\dbutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62B5E37-85DA-4FE4-8B62-BF3877B3C1CF}|ConnectDatabase.csproj|solutionrelative:dbutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62B5E37-85DA-4FE4-8B62-BF3877B3C1CF}|ConnectDatabase.csproj|d:\\.net 2024\\connectdatabase\\dbmysqluntils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62B5E37-85DA-4FE4-8B62-BF3877B3C1CF}|ConnectDatabase.csproj|solutionrelative:dbmysqluntils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TruyVanDL.cs",
+              "DocumentMoniker": "D:\\.NET 2024\\ConnectDatabase\\TruyVanDL.cs",
+              "RelativeDocumentMoniker": "TruyVanDL.cs",
+              "ToolTip": "D:\\.NET 2024\\ConnectDatabase\\TruyVanDL.cs*",
+              "RelativeToolTip": "TruyVanDL.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA6wBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:13:42.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBUtils.cs",
+              "DocumentMoniker": "D:\\.NET 2024\\ConnectDatabase\\DBUtils.cs",
+              "RelativeDocumentMoniker": "DBUtils.cs",
+              "ToolTip": "D:\\.NET 2024\\ConnectDatabase\\DBUtils.cs*",
+              "RelativeToolTip": "DBUtils.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxIAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T06:39:13.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBMySQLUntils.cs",
+              "DocumentMoniker": "D:\\.NET 2024\\ConnectDatabase\\DBMySQLUntils.cs",
+              "RelativeDocumentMoniker": "DBMySQLUntils.cs",
+              "ToolTip": "D:\\.NET 2024\\ConnectDatabase\\DBMySQLUntils.cs*",
+              "RelativeToolTip": "DBMySQLUntils.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA2wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T06:33:13.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET 2024\\ConnectDatabase\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\.NET 2024\\ConnectDatabase\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T06:10:45.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
